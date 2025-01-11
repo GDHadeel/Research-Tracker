@@ -6,7 +6,7 @@ The system integrates with Google Scholar to enable search and retrieval of rese
 Users can download search results as Excel files.  
 Key features include user registration, login, research tracking, and admin monitoring of user activity.  
 
----
+
 
 ## Features  
 - **User Registration and Login**: Secure account creation and access.  
@@ -15,21 +15,16 @@ Key features include user registration, login, research tracking, and admin moni
 - **Admin Monitoring**: Track user activity for better system oversight.  
 - **Responsive Design**: Adaptable for different device sizes.  
 
----
-
 ## Technologies Used  
 - **Frontend**: HTML, CSS (Bootstrap), JavaScript.  
 - **Backend**: PHP, Python (Flask), Beautiful Soup, xlsxwriter.  
 - **Database**: MySQL.  
 - **Version Control**: GitHub.  
 
----
-
 ## Dataset Information  
 - Utilizes Google Scholar for real-time research data retrieval.  
 - Retrieves metadata like paper title, author, and publication details.  
 
----
 
 ## Usage
 1. Register an account on the home page.
